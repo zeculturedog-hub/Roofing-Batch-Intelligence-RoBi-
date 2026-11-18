@@ -1,0 +1,13 @@
+{
+  "name": "roofing-batch-intelligence",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
